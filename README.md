@@ -4,4 +4,6 @@ A short network analysis of Game of thrones. A song of ice and fire consists of 
 
 #### The excel spreadsheet with the names book1, book2, book3, book4, book5 are the dataset used in the analysis
 <hr>
-##### The excel spreadsheet named Battle_excel, battles, char_final, character_deaths and character predictions_pose are the extra dataset that you can download for extra network analysis,
+
+#### The excel spreadsheet named Battle_excel, battles, char_final, character_deaths and character predictions_pose are the extra dataset that you can download for extra network analysis,
+
